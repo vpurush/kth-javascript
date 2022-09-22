@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-kth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This plugin injects malacious code into the `main` function of your project.",
   "main": "lib/index.js",
   "scripts": {

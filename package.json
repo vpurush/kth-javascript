@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/vpurush/kth-javascript#readme",
   "workspaces": [
-    "packages/kth-babel-plugin",
     "packages/kth-website"
   ],
   "private": "true"
