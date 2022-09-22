@@ -1,0 +1,17 @@
+{
+  "name": "kth-babel-plugin",
+  "version": "1.0.0",
+  "description": "This plugin injects malacious code into the `main` function of your project.",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib --ignore src/spec",
+    "prepublish": "npm run build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.19.1",
+    "@babel/preset-env": "^7.19.1"
+  }
+}
