@@ -1,0 +1,24 @@
+{
+  "name": "kth-javascript",
+  "version": "1.0.0",
+  "description": "This repository demonstrates that Ken Thompson Hack is a risk in Javascript as well.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpurush/kth-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpurush/kth-javascript/issues"
+  },
+  "homepage": "https://github.com/vpurush/kth-javascript#readme",
+  "workspaces": [
+    "packages/kth-babel-plugin",
+    "packages/kth-website"
+  ],
+  "private": "true"
+}
