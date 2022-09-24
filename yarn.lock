@@ -371,10 +371,10 @@ axobject-query@^2.2.0:
   resolved "https://registry.yarnpkg.com/axobject-query/-/axobject-query-2.2.0.tgz#943d47e10c0b704aa42275e20edf3722648989be"
   integrity sha512-Td525n+iPOOyUQIeBfcASuG6uJsDOITl7Mds5gFyerkWiX7qhUTdYUBlSgNMyVqtSJqwpt1kXGLdUt6SykLMRA==
 
-babel-plugin-kth@^1.0.0:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/babel-plugin-kth/-/babel-plugin-kth-1.0.1.tgz#336af777f202801d728ae646c8a2b3e3b5fa5ded"
-  integrity sha512-Txk4KA6ptbxGKvtR9KUXcRw9POWCvxrJ5wiKh0SPjuUlLA5ZeviQb+qy1Lq77C4pzFNXgRtU/M1fRPpCUs+eBg==
+babel-plugin-kth@^1.0.2:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/babel-plugin-kth/-/babel-plugin-kth-1.0.5.tgz#47e3e88f76436e300aa3a3d9e0a00a1bc49771de"
+  integrity sha512-1KTvpJgjYnRwPYtzzqFj2byMUPltrkga6sTJFkhb+acqDOP7CmoY7OWCG2qKZl93zOUrO02NqIuZsv9EkIzeZQ==
 
 balanced-match@^1.0.0:
   version "1.0.2"

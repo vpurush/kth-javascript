@@ -9,13 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "babel-plugin-kth": "^1.0.0",
     "next": "12.3.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "babel-plugin-kth": "^1.0.0",
+    "babel-plugin-kth": "^1.0.2",
     "eslint": "8.23.1",
     "eslint-config-next": "12.3.1",
     "@babel/generator": "7.19.0"
