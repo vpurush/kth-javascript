@@ -1,4 +1,10 @@
 {
-  "presets": ["next/babel"],
-  "plugins": ["kth-babel-plugin"]
+  "presets": ["./kth-preset.js", "next/babel"]
+  // "plugins": [
+  //   [
+  //     "../../node_modules/next/dist/build/babel/plugins/react-loadable-plugin.js"
+  //   ],
+  //   "babel-plugin-kth"
+  // ]
+  // "plugins": ["babel-plugin-kth"]
 }

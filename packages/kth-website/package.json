@@ -17,6 +17,7 @@
   "devDependencies": {
     "babel-plugin-kth": "^1.0.0",
     "eslint": "8.23.1",
-    "eslint-config-next": "12.3.1"
+    "eslint-config-next": "12.3.1",
+    "@babel/generator": "7.19.0"
   }
 }

@@ -19,5 +19,8 @@
   "workspaces": [
     "packages/kth-website"
   ],
-  "private": "true"
+  "private": "true",
+  "dependencies": {
+    "@babel/generator": "^7.19.0"
+  }
 }
