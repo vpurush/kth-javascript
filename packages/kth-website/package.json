@@ -9,14 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@auth0/nextjs-auth0": "^1.9.1",
     "next": "12.3.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@babel/generator": "7.19.0",
     "babel-plugin-kth": "^1.0.2",
     "eslint": "8.23.1",
-    "eslint-config-next": "12.3.1",
-    "@babel/generator": "7.19.0"
+    "eslint-config-next": "12.3.1"
   }
 }
